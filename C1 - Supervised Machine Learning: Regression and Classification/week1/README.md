@@ -1,3 +1,6 @@
+### Week 1 notes
+
+
 ### Week 1 Solutions 
 
 <br></br>
