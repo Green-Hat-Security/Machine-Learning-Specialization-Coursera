@@ -1,1 +1,1 @@
-![](/C1%20-%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week1/Practice%20quiz:%20Regression/ss1.png)
+![ss1](https://user-images.githubusercontent.com/117850508/224003646-dbe0d17e-d0e9-47ec-904d-4ed9e3483c91.png)
